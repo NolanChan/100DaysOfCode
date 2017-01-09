@@ -1,4 +1,4 @@
-S-99: Ninety-Nine Problems in Scala
+S-99: Ninety-Nine Problems in Scala + #100DaysOfCode Challenge Journal
 ------------
 
 Inspired by [Alexander Kallaway's #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b#.qv02ziw4a), I want to commit to progressively working on the 99 Problems, Scala Edition for 99 days. I've been taught that any good New Years Resolution (or resolution in general) will ultimately fail unless you make it MEASUREABLE. And taking this equation from AMP conference writer Sarah Chan:
