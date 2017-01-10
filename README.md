@@ -23,3 +23,11 @@ _Today's Progress_: Instead of working on a few Scala problems, I finished up a 
 _Thoughts_: I feel like I'm learning HTML and CSS from near scratch again (and again, and again...) but projects like these help me put front-end development into a concrete application, even if it's simplistic.
 
 _Link(s) to work_: [Closing All of a Lale Project](https://github.com/lale-help/lale-help/pull/443/commits/344112b6ce090bf2cf6af7cf45214a143a58928b) & [File Details Mini-widget](https://github.com/lale-help/lale-help/issues/433)
+
+####Day 5: January 9th, 2017
+_Today's Progress_: Day 5: ~~I can't believe I spent the past 50 minutes just trying to figure out how make cases work for problem #7 while making pretty much zero progress. I probably should have recorded my iterations to remember what I had done. I can't seem figure out how to match for a list inside a list~~
+The final 10 minutes were the breakthrough that I was hoping for, but mostly because I found out that ++: preserved the List type that I wanted. I'm glad that the logic came all together though for the recursive solution. The FlatMap solution presented is much cleaner, albeit I never would have known about the functionality if I didn't see it.
+
+_Thoughts_: It's discouraging to be stuck on such simple a task at the start of learning a new language, but learning anything new never comes easy
+
+_Link(s) to work_: [Problems #6 and #7 of the Scala 99](http://aperiodic.net/phil/scala/s-99/#p07) 
