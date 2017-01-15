@@ -40,9 +40,16 @@ _Takeaway_: There's so many resources on Scala! It's just a matter of diligence 
 
 _Link(s) to work_: [Week 1 Scala on Coursera](https://www.coursera.org/learn/progfun1/programming/Ey6Jf/recursion) 
 
-####Day 6: January 12th, 2017
+####Day 7: January 12th, 2017
 _Today's Progress_: I was pretty stuck with P08 because I was unfamiliar with Scala's match syntax and got a lot of false positives. However, I finished it by adding in a few extra match cases. Not the most efficient in terms of recrusion, but it's a learning process.
 
 _Takeaway_: Don't be afraid to comment out wrong methods so I can leave mistakes for posterity's sake
 
-_Link(s) to work_: [Problem #8 of the Scala 99](http://aperiodic.net/phil/scala/s-99/#p08) 
+_Link(s) to work_: [Problem #8 of the Scala 99](http://aperiodic.net/phil/scala/s-99/#p08)
+
+####Day 8: January 14th, 2017
+_Today's Progress_: Skipped the 13th because of a busy day down in Torrance. Today, I reviewed the binary search algorithm and an additional problem. Also included tests with Python's unittest module!
+
+_Takeaway_: Common algorithms can be deceptively complex. Practice, practice, practice!
+
+_Link(s) to work_: [Shifted Array Search](https://www.pramp.com/question/N5LYMbYzyOtbpovQoYPX)
