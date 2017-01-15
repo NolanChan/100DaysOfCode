@@ -15,8 +15,9 @@ def flatten(l: List[Any]): List[Any] = l match {
 
 // ++: is crucial because it uses the type of the righthand operand as the type of the returned expression
 
-println(flatten(List(List("hi", "hi2"), "bye", List("mid"))))
+// println(flatten(List(List("hi", "hi2"), "bye", List("mid"))))
 
-for (i <- List(1,2,3,4)){
-	println(i)
-}
+// practicing a for loop
+// for (i <- 10 to 1 by -1) {
+// 	println(i)
+// }
