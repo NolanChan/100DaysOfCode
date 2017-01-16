@@ -18,6 +18,8 @@ def flatten(l: List[Any]): List[Any] = l match {
 // println(flatten(List(List("hi", "hi2"), "bye", List("mid"))))
 
 // practicing a for loop
-// for (i <- 10 to 1 by -1) {
-// 	println(i)
-// }
+var j = 0
+for (i <- 10 to 1 by -1) {
+	j+=i
+}
+println(j)

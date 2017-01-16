@@ -53,3 +53,10 @@ _Today's Progress_: Skipped the 13th because of a busy day down in Torrance. Tod
 _Takeaway_: Common algorithms can be deceptively complex. Practice, practice, practice!
 
 _Link(s) to work_: [Shifted Array Search](https://www.pramp.com/question/N5LYMbYzyOtbpovQoYPX)
+
+####Day 9: January 15th, 2017
+_Today's Progress_: Pretty standard problems 9 through 11. They built on one another so they were a bit easier to crank out. I though I was pretty clever in discovering `takeWhile`, but they one-upped me in the solutions by showing me `span`!
+
+_Takeaway_: There's so many different functions in Scala that do way more than I'd anticipate. Know the scala doc well!
+
+_Link(s) to work_: [Problems #9, #10, #11 of the Scala 99](http://aperiodic.net/phil/scala/s-99/#p09)
