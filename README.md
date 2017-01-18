@@ -15,7 +15,7 @@ I'll also be updating this readme with a log/journal on my progress:
 My initial commitment to this challenge. I uploaded my first 3 problems in Scala. Extremely trivial problems, but they're great excuses for me to look through the Scala Documentation!
 
 ####Day 2+3: January 6th + 7th, 2017
-Worked extra long to make up for both days. Though I got thorugh only 4 and 5, it was good practice to try different methods in obtaining the solution (built in, recursive, tail recursive, functional)
+Worked extra long to make up for both days. Though I got through only 4 and 5, it was good practice to try different methods in obtaining the solution (built in, recursive, tail recursive, functional)
 
 ####Day 4: January 8th, 2017
 _Today's Progress_: Instead of working on a few Scala problems, I finished up a long overdue PR and started another for Lale.
@@ -60,3 +60,10 @@ _Today's Progress_: Pretty standard problems 9 through 11. They built on one ano
 _Takeaway_: There's so many different functions in Scala that do way more than I'd anticipate. Know the scala doc well!
 
 _Link(s) to work_: [Problems #9, #10, #11 of the Scala 99](http://aperiodic.net/phil/scala/s-99/#p09)
+
+####Day 10 + 11: January 16th-17th, 2017
+_Today's Progress_: Worked on issues #330 and #332 for Lale. Finished up #332 after scouring documentation on how to efficiently do a "where" in Rails since I haven't done it in a while. #330 is taking me a while because implementing validations alongside mutations isn't giving me any results. Also trying to implement client side validations is becoming difficult because i don't know how to debug rails JS. 
+
+_Takeaway_: Writing pure JS in rails is becoming very difficult, I need to look into ways of debugging.
+
+_Link(s) to work_: [PR for #332](https://github.com/lale-help/lale-help/pull/454#issuecomment-273240830) and [Issue for #330](https://github.com/lale-help/lale-help/issues/330#issuecomment-273194004)
