@@ -67,3 +67,10 @@ _Today's Progress_: Worked on issues #330 and #332 for Lale. Finished up #332 af
 _Takeaway_: Writing pure JS in rails is becoming very difficult, I need to look into ways of debugging.
 
 _Link(s) to work_: [PR for #332](https://github.com/lale-help/lale-help/pull/454#issuecomment-273240830) and [Issue for #330](https://github.com/lale-help/lale-help/issues/330#issuecomment-273194004)
+
+####Day 12: January 18th, 2017
+_Today's Progress_: Learned more about Scala's Type Inference, insomuch that I need to learn a lot more about it
+
+_Takeaway_: Don't just try to power conundrums when learning a new language, I may have never figured out my Type Inference problem without SO
+
+_Link(s) to work_: [Problem #12 of the Scala 99](http://aperiodic.net/phil/scala/s-99/#p12)
