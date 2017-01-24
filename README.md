@@ -71,6 +71,13 @@ _Link(s) to work_: [PR for #332](https://github.com/lale-help/lale-help/pull/454
 ####Day 12: January 18th, 2017
 _Today's Progress_: Learned more about Scala's Type Inference, insomuch that I need to learn a lot more about it
 
-_Takeaway_: Don't just try to power conundrums when learning a new language, I may have never figured out my Type Inference problem without SO
+_Takeaway_: Don't just try to power through language detail conundrums when learning a new language. I would have never figured out my type inference problem without SO.
 
 _Link(s) to work_: [Problem #12 of the Scala 99](http://aperiodic.net/phil/scala/s-99/#p12)
+
+####Day 13: January 22th, 2017
+_Today's Progress_: Took a long break while on my company's retreat. Mostly had to get reacquainted with scala and understand how to use span and multi-variable assignment. Not too difficult once I could understand span.
+
+_Takeaway_: Don't be afraid about trying to get back up to speed, it'll probably come back faster than you think.
+
+_Link(s) to work_: [Problem #13 of the Scala 99](http://aperiodic.net/phil/scala/s-99/#p13)
