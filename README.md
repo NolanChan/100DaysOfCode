@@ -81,3 +81,10 @@ _Today's Progress_: Took a long break while on my company's retreat. Mostly had 
 _Takeaway_: Don't be afraid about trying to get back up to speed, it'll probably come back faster than you think.
 
 _Link(s) to work_: [Problem #13 of the Scala 99](http://aperiodic.net/phil/scala/s-99/#p13)
+
+####Day 14: January 23th, 2017
+_Today's Progress_: Worked a couple hours and completed my first iteration of Issue #330 on Lale. It consisted of front-end validations, back-end validations, creating new model attributes, and working on some html/css. Glad I was able to work up and down the stack.
+
+_Takeaway_: Rails JS debugging is like any other type of JS debugging in Chrome Dev tools.
+
+_Link(s) to work_: [#330 on Lale](https://github.com/lale-help/lale-help/pull/455)
