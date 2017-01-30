@@ -88,3 +88,24 @@ _Today's Progress_: Worked a couple hours and completed my first iteration of Is
 _Takeaway_: Rails JS debugging is like any other type of JS debugging in Chrome Dev tools.
 
 _Link(s) to work_: [#330 on Lale](https://github.com/lale-help/lale-help/pull/455)
+
+####Day 15: January 24th, 2017
+_Today's Progress_: Working through a Machine Learning example referred to by Jorge Ferrer in his ML presentation. Currently working through a Neural Nets example using Python and Spark.
+
+_Takeaway_: Machine Learning is pretty crazy, but there's a lot of tools that make it suprisingly accessible. 
+
+_Link(s) to work_: [Neural Nets example](https://hub.docker.com/r/mdelapenya/spark-2-ml/)
+
+####Day 16: January 26th, 2017
+_Today's Progress_: Worked through exercises #14-16, more practice
+
+_Takeaway_: Interesting article on Nautil.us, "How I Rewired My Brain to Become Fluent at Math." Takeaway is that a deep understanding cannot be divorced from constant practice to gain mastery over a subject. 
+
+_Link(s) to work_: [Problem #14 of the Scala 99](http://aperiodic.net/phil/scala/s-99/#p14)
+
+####Day 16: January 28th, 2017
+_Today's Progress_: Worked on the tail recursive + functional solution of #16
+
+_Takeaway_: 
+
+_Link(s) to work_: [Problem #16 of the Scala 99](http://aperiodic.net/phil/scala/s-99/#p16)
