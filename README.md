@@ -103,9 +103,23 @@ _Takeaway_: Interesting article on Nautil.us, "How I Rewired My Brain to Become 
 
 _Link(s) to work_: [Problem #14 of the Scala 99](http://aperiodic.net/phil/scala/s-99/#p14)
 
-####Day 16: January 28th, 2017
-_Today's Progress_: Worked on the tail recursive + functional solution of #16
+####Day 17: January 28th, 2017
+_Today's Progress_: Worked on the tail recursive + functional solution of #16. Also going through Scala 101 on Big Data University, hopefully I can move through one video and a problem a day. Slow and Steady wins the race! (I hope). I covered Scala classes and fields, which aren't too difficult. But I'm definietly not familiar with the syntax, nor how Scala can be OO. 
 
 _Takeaway_: 
 
 _Link(s) to work_: [Problem #16 of the Scala 99](http://aperiodic.net/phil/scala/s-99/#p16)
+
+####Day 18: January 29th, 2017
+_Today's Progress_: Worked through problem #17, learning a bit about tuples in Scala.
+
+_Takeaway_: 
+
+_Link(s) to work_: [Problem #17 of the Scala 99](http://aperiodic.net/phil/scala/s-99/#p16)
+
+####Day 19: January 30th, 2017
+_Today's Progress_: Worked through problem #18, 19, 20. I'm probably just going to be focusing on the most concise answers and not go out of my way to write recursive methods anymore since I want to be getting to the meatier parts. Got myself locked out of my Big Data account cause I tried to log in too many times. 
+
+_Takeaway_: Just ask for the password reset...
+
+_Link(s) to work_: [Problem #18 of the Scala 99](http://aperiodic.net/phil/scala/s-99/#p16)
